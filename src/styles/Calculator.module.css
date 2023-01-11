@@ -2,7 +2,7 @@
   width: 45%;
 }
 
-.calculatorTotal{
+.calculatorTotal {
   display: flex;
   justify-content: center;
   width: 100%;
@@ -19,7 +19,7 @@
   width: 100%;
   background: rgb(127, 126, 142);
   color: white;
-  padding: 1.6rem .5rem;
+  padding: 1.6rem 0.5rem;
   font-size: 2rem;
 }
 
@@ -36,10 +36,11 @@
   background-color: #e6e6e6de;
   border: 0.1px solid rgba(211, 211, 211, 0.849);
 }
+
 .zeroBtn {
   width: 50%;
 }
+
 .btnOperation {
   background-color: rgb(240, 133, 76);
 }
-
