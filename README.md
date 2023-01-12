@@ -51,9 +51,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [math-magican] <a name="about-project"></a>
+# 📖 [math-magician] <a name="about-project"></a>
 
-**[math-magican]** is a website that allows you to create a collection of your favorites books.
+**[math-magician]** is a website that allows you to create a collection of your favorites books.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -82,14 +82,16 @@ Clone this repository to your desired folder:
 
 - Choose a directory
 - Open a Terminal
-- write: git clone [here](https://github.com/M1rn4/math-magican.git)
+- write: git clone [here](https://github.com/M1rn4/math-magician.git)
 
 ### Install
 
 Install this project with:
 
-- get into to directory "math-magican"
+- get into to directory "math-magician"
+- write: cd math-magician
 - write: npm install
+- write: npm run start
 
 ### Usage
 
@@ -126,7 +128,7 @@ To run the project, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/M1rn4/math-magican/issues).
+Feel free to check the [issues page](https://github.com/M1rn4/math-magician/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
