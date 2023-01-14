@@ -23,7 +23,7 @@ const Calculator = () => {
           {next}
         </div>
         <div className={styles.buttons}>
-          <button type="button" className={styles.btnNumbers} onClick={handleClick}>AC</button>
+          <button type="button" className={styles.btnNumbers} onClick={handleClick}>AC </button>
           <button type="button" className={styles.btnNumbers} onClick={handleClick}>+/-</button>
           <button type="button" className={styles.btnNumbers} onClick={handleClick}>%</button>
           <button type="button" className={`${styles.btnNumbers} ${styles.btnOperation}`} onClick={handleClick}>/</button>
