@@ -3,9 +3,11 @@
   justify-content: space-between;
   margin: 10rem 5rem 3rem 5rem;
 }
+
 .calculatorTotal h2 {
   font-size: 3rem;
 }
+
 .container {
   width: 60%;
   right: 10rem;
