@@ -1,28 +1,24 @@
 nav {
   padding: 20px 30px;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   align-items: center;
-  background-color: #e6e6e6de;
+  background-color: white;
 }
 
 nav h1 {
-  font-size: 1.5rem;
+  font-size: 3.5rem;
 }
 
 nav ul {
   padding: 0 20px;
   display: flex;
   gap: 1.5rem;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
   list-style: none;
 }
 
 nav ul li {
-  font-size: 1.2rem;
-}
-
-nav ul li a {
-  color: black;
+  font-size: 1.8rem;
 }

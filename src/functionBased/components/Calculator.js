@@ -18,14 +18,13 @@ const Calculator = () => {
 
   return (
     <section className="calculatorTotal">
+      <h2>Lets do some math!</h2>
       <div className="container">
         <div className="calculator">
           <div className="display">
-            <p>
-              {total}
-              {operation}
-              {next}
-            </p>
+            {total}
+            {operation}
+            {next}
           </div>
           <div className="buttons">
             {buttonsCalculate.map((btn) => (

@@ -25,7 +25,7 @@ const Navbar = () => {
 
   return (
     <nav className="navBar">
-      <h1>Maths</h1>
+      <h1>Math Magicians</h1>
       <ul>
         {links.map((link) => (
           <li key={link.id}>

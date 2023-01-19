@@ -2,16 +2,17 @@
   margin: 50px 30px;
   display: flex;
   flex-direction: column;
+  gap: 10px;
 }
 
 .homePage h2 {
-  font-size: 1.5rem;
+  font-size: 3rem;
   text-align: center;
 }
 
-.homePage p {
-  width: 60vw;
-  right: 20vw;
+.parra1 {
+  font-size: 1.5rem;
+  margin: 50px 30px;
   text-align: justify;
-  top: 25%;
+  top: 18%;
 }
