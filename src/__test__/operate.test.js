@@ -3,7 +3,7 @@ import operate from '../logic/operate';
 describe('operate', () => {
   test('shoud return 10 after adding 7 + 3', () => {
     expect(operate('7', '3', '+')).toEqual('10');
-  })
+  });
   test('shoud return 5 after adding 8 - 3', () => {
     expect(operate('8', '3', '-')).toEqual('5');
   });
