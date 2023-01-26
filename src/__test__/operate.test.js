@@ -9,8 +9,8 @@ describe('operate', () => {
   });
   test('shoud return 30 after adding 6 x 5', () => {
     expect(operate('6', '5', 'x')).toEqual('30');
-  })
-  test('shoud return 4 after adding 12 / 3', () => {
-    expect(operate('12', '3', '')).toEqual('4');
   });
-})
+  test('shoud return 4 after adding 12 / 3', () => {
+    expect(operate('12', '3', '/')).toEqual('4');
+  });
+});
