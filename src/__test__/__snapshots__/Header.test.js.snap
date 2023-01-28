@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`match home snapshot 1`] = `
+<header
+  style={
+    Object {
+      "lineHeight": "1.5em",
+      "padding": "20px 0",
+    }
+  }
+>
+  <h1
+    style={
+      Object {
+        "color": "#000000",
+        "fontSize": "6rem",
+        "fontWeight": "600",
+        "lineHeight": "1em",
+        "marginBottom": "2rem",
+        "textAlign": "center",
+        "textTransform": "lowercase",
+      }
+    }
+  >
+    todos
+  </h1>
+</header>
+`;
